@@ -1,2 +1,2 @@
 #!/bin/basH
-export PATH="$HOME/action":$PATH
+export PATH="bin/action":$PATH
